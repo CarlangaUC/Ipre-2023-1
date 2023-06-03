@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.30)  30 MAY 2023 16:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=latex 2023.5.30)  2 JUN 2023 12:27
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/carlo/Desktop/Ipre 2023-1/main/main.tex"
-(c:/Users/carlo/Desktop/Ipre 2023-1/main/main.tex
+**./main.tex
+(main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-05-15> (lipics-v2021.cls
 Document Class: lipics-v2021 2021/05/04 v3.1.2 LIPIcs articles
@@ -19,7 +18,8 @@ Already applied: [0000/00/00] Make \[ robust on input line 62.
 Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -35,12 +35,14 @@ File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \bibindent=\dimen140
 )
 \tocfile=\write3
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count193
 )
@@ -55,20 +57,25 @@ LaTeX Info: Redefining \textls on input line 1368.
 \MT@outer@kern=\dimen141
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
 \MT@listname@count=\count195
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
 File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+
 LaTeX Info: Redefining \lsstyle on input line 902.
 LaTeX Info: Redefining \lslig on input line 902.
 \MT@outer@space=\skip51
 )
 Package microtype Info: Loading configuration file microtype.cfg.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 )) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -102,34 +109,60 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5.sty (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesom
+e5.sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2023-05-15 L3 programming layer (loader) 
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count196
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-dvi
+ps.def
+File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
 \l__pdf_internal_box=\box52
+\g__pdf_backend_object_int=\count196
+\l__pdf_backend_content_box=\box53
+\l__pdf_backend_model_box=\box54
+\g__pdf_backend_annotation_int=\count197
+\g__pdf_backend_link_int=\count198
+\g__pdf_backend_link_sf_int=\count199
 ))
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
 Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
 Package: xparse 2023-02-02 L3 Experimental document command parser
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-generic-helper.sty
-Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fontawesome5
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-mapping.def))) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesom
+e5-generic-helper.sty
+Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fon
+tawesome5
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesom
+e5-mapping.def)))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\eucal.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\eucal.sty
 Package: eucal 2009/06/22 v3.00 Euler Script fonts
 LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
 (Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks21
 \symAMSa=\mathgroup4
@@ -139,7 +172,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
 Package: soul 2023-02-18 v3.0 Permit use of UTF-8 characters in soul (HO)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
 Package: soul-ori 2023-02-18 v3.0 letterspacing/underlining (mf)
 \SOUL@word=\toks22
 \SOUL@lasttoken=\toks23
@@ -153,45 +187,59 @@ Package: soul-ori 2023-02-18 v3.0 letterspacing/underlining (mf)
 \SOUL@hyphkern=\dimen145
 \SOUL@dimen=\dimen146
 \SOUL@dimeni=\dimen147
-\SOUL@minus=\count197
-\SOUL@comma=\count198
-\SOUL@apo=\count199
-\SOUL@grave=\count266
+\SOUL@minus=\count266
+\SOUL@comma=\count267
+\SOUL@apo=\count268
+\SOUL@grave=\count269
 \SOUL@spaceskip=\skip52
 \SOUL@ttwidth=\dimen148
 \SOUL@uldp=\dimen149
 \SOUL@ulht=\dimen150
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-))) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+)))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 149.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package color Info: Driver file: dvips.def on input line 149.
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\dvips.def
+File: dvips.def 2022/09/22 v3.1e Graphics/color driver for dvips
+) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2023/05/11 v3.89 The Babel package
-\babel@savecnt=\count267
+\babel@savecnt=\count270
 \U@D=\dimen151
 \l@unhyphenated=\language79
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count268
+\bbl@dirlevel=\count271
 
 *************************************
 * Local config file bblopts.cfg used
 *
 (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\UKenglish.ldf
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\UKenglish
+.ldf
 Language: UKenglish 2017/06/06 v3.3r English support from the babel system
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -199,39 +247,45 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
-))) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-ukenglish.tex
+)))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-ukenglish.tex
 Package babel Info: Importing font and identification data for UKenglish
 (babel)             from babel-en-GB.ini. Reported on input line 11.
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip53
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks28
 \ex@=\dimen152
-)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen153
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count269
+\inf@bad=\count272
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count270
-\leftroot@=\count271
+\uproot@=\count273
+\leftroot@=\count274
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count272
-\DOTSCASE@=\count273
+\classnum@=\count275
+\DOTSCASE@=\count276
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box53
-\strutbox@=\box54
+\Mathstrutbox@=\box55
+\strutbox@=\box56
 LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
@@ -239,20 +293,20 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen154
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count274
+\macc@depth=\count277
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count275
+\c@MaxMatrixCols=\count278
 \dotsspace@=\muskip16
-\c@parentequation=\count276
-\dspbrk@lvl=\count277
+\c@parentequation=\count279
+\dspbrk@lvl=\count280
 \tag@help=\toks29
-\row@=\count278
-\column@=\count279
-\maxfields@=\count280
+\row@=\count281
+\column@=\count282
+\maxfields@=\count283
 \andhelp@=\toks30
 \eqnshift@=\dimen155
 \alignsep@=\dimen156
@@ -266,128 +320,161 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks32
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks33
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
+Package graphics Info: Driver file: dvips.def on input line 107.
 )
 \Gin@req@height=\dimen161
 \Gin@req@width=\dimen162
 ) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen163
-\ar@mcellbox=\box55
+\ar@mcellbox=\box57
 \extrarowheight=\dimen164
 \NC@list=\toks34
 \extratabsurround=\skip56
 \backup@length=\skip57
-\ar@cellbox=\box56
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+\ar@cellbox=\box58
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip58
-\multirow@cntb=\count281
+\multirow@cntb=\count284
 \multirow@dima=\skip59
 \bigstrutjot=\dimen165
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@col@width=\dimen166
 \TX@old@table=\dimen167
 \TX@old@col=\dimen168
 \TX@target=\dimen169
 \TX@delta=\dimen170
-\TX@cols=\count282
+\TX@cols=\count285
 \TX@ftn=\toks35
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threeparttable.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threepar
+ttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box57
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count283
-\lst@gtempboxa=\box58
+\@tempboxb=\box59
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count286
+\lst@gtempboxa=\box60
 \lst@token=\toks36
-\lst@length=\count284
+\lst@length=\count287
 \lst@currlwidth=\dimen171
-\lst@column=\count285
-\lst@pos=\count286
+\lst@column=\count288
+\lst@pos=\count289
 \lst@lostspace=\dimen172
 \lst@width=\dimen173
-\lst@newlines=\count287
-\lst@lineno=\count288
+\lst@newlines=\count290
+\lst@lineno=\count291
 \lst@maxwidth=\dimen174
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count289
-\lst@skipnumbers=\count290
-\lst@framebox=\box59
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+\c@lstnumber=\count292
+\lst@skipnumbers=\count293
+\lst@framebox=\box61
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
 Package: lineno 2023/05/19 line numbers on paragraphs v5.2
-\linenopenalty=\count291
+\linenopenalty=\count294
 \output=\toks37
-\linenoprevgraf=\count292
+\linenoprevgraf=\count295
 \linenumbersep=\dimen175
 \linenumberwidth=\dimen176
-\c@linenumber=\count293
-\c@pagewiselinenumber=\count294
-\c@LN@truepage=\count295
-\c@internallinenumber=\count296
-\c@internallinenumbers=\count297
+\c@linenumber=\count296
+\c@pagewiselinenumber=\count297
+\c@LN@truepage=\count298
+\c@internallinenumber=\count299
+\c@internallinenumbers=\count300
 \quotelinenumbersep=\dimen177
 \bframerule=\dimen178
 \bframesep=\dimen179
-\bframebox=\box60
-\linenoamsmath@ams@eqpen=\count298
+\bframebox=\box62
+\linenoamsmath@ams@eqpen=\count301
 LaTeX Info: Redefining \\ on input line 3146.
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/totpages\totpages.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/totpages\totpages.sty
 Package: totpages 2005/09/19 v2.00 Totpages Package (muewi)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/everyshi\everyshi.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/everyshi\everyshi.sty
 Package: everyshi 2020/11/18 v4.00 EveryShipout Package
-)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
+y
 Package: hyperref 2023-04-22 v7.00x Hypertext links for LaTeX
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 ) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count299
+\c@section@level=\count302
 )
 \@linkdim=\dimen180
-\Hy@linkcounter=\count300
-\Hy@pagecounter=\count301
+\Hy@linkcounter=\count303
+\Hy@pagecounter=\count304
  (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-04-22 v7.00x Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -395,7 +482,7 @@ Now handling font encoding PD1 ...
 ) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count302
+\Hy@SavedSpaceFactor=\count305
  (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-04-22 v7.00x Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -409,19 +496,24 @@ Package hyperref Info: Plain pages OFF on input line 4197.
 Package hyperref Info: Backreferencing OFF on input line 4202.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4449.
-\c@Hy@tempcnt=\count303
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\c@Hy@tempcnt=\count306
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4787.
 \XeTeXLinkMargin=\dimen181
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
-\Fld@menulength=\count304
+\Fld@menulength=\count307
 \Field@Width=\dimen182
 \Fld@charsize=\dimen183
 Package hyperref Info: Hyper figures OFF on input line 6066.
@@ -431,38 +523,56 @@ Package hyperref Info: backreferencing OFF on input line 6081.
 Package hyperref Info: Link coloring OFF on input line 6086.
 Package hyperref Info: Link coloring with OCG OFF on input line 6091.
 Package hyperref Info: PDF/A mode OFF on input line 6096.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count305
-\c@Item=\count306
-\c@Hfootnote=\count307
+\Hy@abspage=\count308
+\c@Item=\count309
+\c@Hfootnote=\count310
 )
-Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-04-22 v7.00x Hyperref driver for pdfTeX
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+Package hyperref Info: Driver (default): hdvips.
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hdvips.def
+File: hdvips.def 2023-04-22 v7.00x Hyperref driver for dvips
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pdfmark.def
+File: pdfmark.def 2023-04-22 v7.00x Hyperref definitions for pdfmark specials
+\pdf@docset=\toks38
+\pdf@box=\box63
+\pdf@toks=\toks39
+\pdf@defaulttoks=\toks40
+\HyField@AnnotCount=\count311
+\Fld@listcount=\count312
+\c@bookmark@seq@number=\count313
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
 with kernel methods
 )
-\Fld@listcount=\count308
-\c@bookmark@seq@number=\count309
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
 )
 \Hy@SectionHShift=\skip60
-)
+))
 Package hyperref Info: Option `breaklinks' set `true' on input line 662.
 Package hyperref Info: Option `unicode' set `true' on input line 662.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 662.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/03/12 v3.6j Customizing captions (AR)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@tempdima=\dimen184
 \captionmargin=\dimen185
@@ -474,465 +584,103 @@ Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@hangindent=\dimen191
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count310
-\c@continuedfloat=\count311
+\c@caption@flags=\count314
+\c@continuedfloat=\count315
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: threeparttable package is loaded.
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count312
+\c@r@tfl@t=\count316
 \rotFPtop=\skip61
 \rotFPbot=\skip62
-\rot@float@box=\box61
-\rot@mess@toks=\toks38
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+\rot@float@box=\box64
+\rot@mess@toks=\toks41
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 239.
-\c@subfigure=\count313
+\c@subfigure=\count317
 Package caption Info: New subtype `subtable' on input line 239.
-\c@subtable=\count314
+\c@subtable=\count318
 )
-\c@author=\count315
-\c@currentauthor=\count316
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
-\integerpart=\count317
-\decimalpart=\count318
+\c@author=\count319
+\c@currentauthor=\count320
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\integerpart=\count321
+\decimalpart=\count322
 )
 Package: xstring 2023/01/14 v1.85 String manipulations (CT)
 ) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write4
- Excluding comment 'comment') Excluding comment 'CCSXML' (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+
+Excluding comment 'comment') Excluding comment 'CCSXML'
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks39
-\thm@bodyfont=\toks40
-\thm@headfont=\toks41
-\thm@notefont=\toks42
-\thm@headpunct=\toks43
+\thm@style=\toks42
+\thm@bodyfont=\toks43
+\thm@headfont=\toks44
+\thm@notefont=\toks45
+\thm@headpunct=\toks46
 \thm@preskip=\skip63
 \thm@postskip=\skip64
 \thm@headsep=\skip65
-\dth@everypar=\toks44
+\dth@everypar=\toks47
 )
-\c@theorem=\count319
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/anysize\anysize.sty
-Package: anysize 1994/08/13 setting margin sizes
-
-document style option `anysize' loaded
-Michael Salzenberg, Thomas Esser, Dirk Hillbrecht
-Version 1.0, Aug 13, 1994
-\@Leftmargin=\dimen192
-\@Rightmargin=\dimen193
-\@Topmargin=\dimen194
-\@Bottommargin=\dimen195
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
-Package: gensymb 2022/10/17 v1.0.2 (KJH)
+\c@theorem=\count323
 )
-   defining Unicode char U+0301 (decimal 769)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
-Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count320
-\calc@Bcount=\count321
-\calc@Adimen=\dimen196
-\calc@Bdimen=\dimen197
-\calc@Askip=\skip66
-\calc@Bskip=\skip67
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count322
-\calc@Cskip=\skip68
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
-Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+(../extras/macros.tex
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\g_MT_multlinerow_int=\count323
-\l_MT_multwidth_dim=\dimen198
-\origjot=\skip69
-\l_MT_shortvdotswithinadjustabove_dim=\dimen199
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen256
-\l_MT_above_intertext_sep=\dimen257
-\l_MT_below_intertext_sep=\dimen258
-\l_MT_above_shortintertext_sep=\dimen259
-\l_MT_below_shortintertext_sep=\dimen260
-\xmathstrut@box=\box62
-\xmathstrut@dim=\dimen261
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/doublestroke\dsfont.sty
-Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/tipa\tipa.sty
-Package: tipa 2002/08/08 TIPA version 1.1
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3enc.def
-File: t3enc.def 2001/12/31 T3 encoding
-Now handling font encoding T3 ...
-... no UTF-8 mapping file for font encoding T3
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 357.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
-File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)))) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/was\upgreek.sty
-Package: upgreek 2003/02/12 v2.0 (WaS)
-Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
-\symugrf@m=\mathgroup6
-LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
-(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.st
+y
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+ (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count324
-\float@exts=\toks45
-\float@box=\box63
-\@float@everytoks=\toks46
-\@floatcapt=\box64
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
-Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
-Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count325
-\csq@gtype=\count326
-\csq@glevel=\count327
-\csq@qlevel=\count328
-\csq@maxlvl=\count329
-\csq@tshold=\count330
-\csq@ltx@everypar=\toks47
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
-File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+\float@exts=\toks48
+\float@box=\box65
+\@float@everytoks=\toks49
+\@floatcapt=\box66
 )
-Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
-Package csquotes Info: ... configuration file loaded successfully.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
-File: csquotes.cfg 
-)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
-Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count331
-\mult@box=\box65
-\multicol@leftmargin=\dimen262
-\c@unbalance=\count332
-\c@collectmore=\count333
-\doublecol@number=\count334
-\multicoltolerance=\count335
-\multicolpretolerance=\count336
-\full@width=\dimen263
-\page@free=\dimen264
-\premulticols=\dimen265
-\postmulticols=\dimen266
-\multicolsep=\skip70
-\multicolbaselineskip=\skip71
-\partial@page=\box66
-\last@line=\box67
-\maxbalancingoverflow=\dimen267
-\mult@rightbox=\box68
-\mult@grightbox=\box69
-\mult@firstbox=\box70
-\mult@gfirstbox=\box71
-\@tempa=\box72
-\@tempa=\box73
-\@tempa=\box74
-\@tempa=\box75
-\@tempa=\box76
-\@tempa=\box77
-\@tempa=\box78
-\@tempa=\box79
-\@tempa=\box80
-\@tempa=\box81
-\@tempa=\box82
-\@tempa=\box83
-\@tempa=\box84
-\@tempa=\box85
-\@tempa=\box86
-\@tempa=\box87
-\@tempa=\box88
-\@tempa=\box89
-\@tempa=\box90
-\@tempa=\box91
-\@tempa=\box92
-\@tempa=\box93
-\@tempa=\box94
-\@tempa=\box95
-\@tempa=\box96
-\@tempa=\box97
-\@tempa=\box98
-\@tempa=\box99
-\@tempa=\box100
-\@tempa=\box101
-\@tempa=\box102
-\@tempa=\box103
-\@tempa=\box104
-\@tempa=\box105
-\@tempa=\box106
-\@tempa=\box107
-\c@minrows=\count337
-\c@columnbadness=\count338
-\c@finalcolumnbadness=\count339
-\last@try=\dimen268
-\multicolovershoot=\dimen269
-\multicolundershoot=\dimen270
-\mult@nat@firstbox=\box108
-\colbreak@box=\box109
-\mc@col@check@num=\count340
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
-Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
-Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count341
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
-File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-\c@tabx@nest=\count342
-\c@listtotal=\count343
-\c@listcount=\count344
-\c@liststart=\count345
-\c@liststop=\count346
-\c@citecount=\count347
-\c@citetotal=\count348
-\c@multicitecount=\count349
-\c@multicitetotal=\count350
-\c@instcount=\count351
-\c@maxnames=\count352
-\c@minnames=\count353
-\c@maxitems=\count354
-\c@minitems=\count355
-\c@citecounter=\count356
-\c@maxcitecounter=\count357
-\c@savedcitecounter=\count358
-\c@uniquelist=\count359
-\c@uniquename=\count360
-\c@refsection=\count361
-\c@refsegment=\count362
-\c@maxextratitle=\count363
-\c@maxextratitleyear=\count364
-\c@maxextraname=\count365
-\c@maxextradate=\count366
-\c@maxextraalpha=\count367
-\c@abbrvpenalty=\count368
-\c@highnamepenalty=\count369
-\c@lownamepenalty=\count370
-\c@maxparens=\count371
-\c@parenlevel=\count372
-\blx@tempcnta=\count373
-\blx@tempcntb=\count374
-\blx@tempcntc=\count375
-\c@blx@maxsection=\count376
-\blx@maxsegment@0=\count377
-\blx@notetype=\count378
-\blx@parenlevel@text=\count379
-\blx@parenlevel@foot=\count380
-\blx@sectionciteorder@0=\count381
-\blx@sectionciteorderinternal@0=\count382
-\blx@entrysetcounter=\count383
-\blx@biblioinstance=\count384
-\labelnumberwidth=\skip72
-\labelalphawidth=\skip73
-\biblabelsep=\skip74
-\bibitemsep=\skip75
-\bibnamesep=\skip76
-\bibinitsep=\skip77
-\bibparsep=\skip78
-\bibhang=\skip79
-\blx@bcfin=\read3
-\blx@bcfout=\write5
-\blx@langwohyphens=\language80
-\c@mincomprange=\count385
-\c@maxcomprange=\count386
-\c@mincompwidth=\count387
-Package biblatex Info: Trying to load biblatex default data model...
-Package biblatex Info: ... file 'blx-dm.def' found.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
-File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+\@float@every@algorithm=\toks50
+\c@algorithm=\count325
 )
-Package biblatex Info: Trying to load biblatex custom data model...
-Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count388
-\c@savedafterword=\count389
-\c@annotator=\count390
-\c@savedannotator=\count391
-
-
-C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty:7525: LaTeX Error: Command \c@author already defined.
-               Or name \end... illegal, see p.192 of the manual.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7525 \abx@donames
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-\c@savedauthor=\count392
-\c@bookauthor=\count393
-\c@savedbookauthor=\count394
-\c@commentator=\count395
-\c@savedcommentator=\count396
-\c@editor=\count397
-\c@savededitor=\count398
-\c@editora=\count399
-\c@savededitora=\count400
-\c@editorb=\count401
-\c@savededitorb=\count402
-\c@editorc=\count403
-\c@savededitorc=\count404
-\c@foreword=\count405
-\c@savedforeword=\count406
-\c@holder=\count407
-\c@savedholder=\count408
-\c@introduction=\count409
-\c@savedintroduction=\count410
-\c@namea=\count411
-\c@savednamea=\count412
-\c@nameb=\count413
-\c@savednameb=\count414
-\c@namec=\count415
-\c@savednamec=\count416
-\c@translator=\count417
-\c@savedtranslator=\count418
-\c@shortauthor=\count419
-\c@savedshortauthor=\count420
-\c@shorteditor=\count421
-\c@savedshorteditor=\count422
-\c@labelname=\count423
-\c@savedlabelname=\count424
-\c@institution=\count425
-\c@savedinstitution=\count426
-\c@lista=\count427
-\c@savedlista=\count428
-\c@listb=\count429
-\c@savedlistb=\count430
-\c@listc=\count431
-\c@savedlistc=\count432
-\c@listd=\count433
-\c@savedlistd=\count434
-\c@liste=\count435
-\c@savedliste=\count436
-\c@listf=\count437
-\c@savedlistf=\count438
-\c@location=\count439
-\c@savedlocation=\count440
-\c@organization=\count441
-\c@savedorganization=\count442
-\c@origlocation=\count443
-\c@savedoriglocation=\count444
-\c@origpublisher=\count445
-\c@savedorigpublisher=\count446
-\c@publisher=\count447
-\c@savedpublisher=\count448
-\c@language=\count449
-\c@savedlanguage=\count450
-\c@origlanguage=\count451
-\c@savedoriglanguage=\count452
-\c@pageref=\count453
-\c@savedpageref=\count454
-\shorthandwidth=\skip80
-\shortjournalwidth=\skip81
-\shortserieswidth=\skip82
-\shorttitlewidth=\skip83
-\shortauthorwidth=\skip84
-\shorteditorwidth=\skip85
-\locallabelnumberwidth=\skip86
-\locallabelalphawidth=\skip87
-\localshorthandwidth=\skip88
-\localshortjournalwidth=\skip89
-\localshortserieswidth=\skip90
-\localshorttitlewidth=\skip91
-\localshortauthorwidth=\skip92
-\localshorteditorwidth=\skip93
-Package biblatex Info: Trying to load compatibility code...
-Package biblatex Info: ... file 'blx-compat.def' found.
-(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
-File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-)
-Package biblatex Info: Trying to load generic definitions...
-Package biblatex Info: ... file 'biblatex.def' found.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
-File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count455
-\c@textcitetotal=\count456
-\c@textcitemaxnames=\count457
-\c@biburlbigbreakpenalty=\count458
-\c@biburlbreakpenalty=\count459
-\c@biburlnumpenalty=\count460
-\c@biburlucpenalty=\count461
-\c@biburllcpenalty=\count462
-\biburlbigskip=\muskip18
-\biburlnumskip=\muskip19
-\biburlucskip=\muskip20
-\biburllcskip=\muskip21
-\c@smartand=\count463
-)
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
-File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-Package biblatex Info: Trying to load bibliography style 'standard'...
-Package biblatex Info: ... file 'standard.bbx' found.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
-File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count464
-\c@bbx:relatedtotal=\count465
-))
-Package biblatex Info: Trying to load citation style 'numeric'...
-Package biblatex Info: ... file 'numeric.cbx' found.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
-File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
-Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\supercite'.
-Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\textcites'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
-)
-Package biblatex Info: Trying to load configuration file...
-Package biblatex Info: ... file 'biblatex.cfg' found.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
-File: biblatex.cfg 
-)
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Document encoding is UTF8 ....
-Package biblatex Info: ... and expl3
-(biblatex)             2023-05-15 L3 programming layer (loader) 
-(biblatex)             is new enough (at least 2020/04/06),
-(biblatex)             setting 'casechanger=expl3'.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
-Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-)) (../extras/macros.tex (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
-Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.sty
-Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
-\@float@every@algorithm=\toks48
-\c@algorithm=\count466
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudocode.sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudoc
+ode.sty
 Package: algpseudocode 
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithmicx.sty
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithmi
+cx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count467
-\c@ALG@rem=\count468
-\c@ALG@nested=\count469
-\ALG@tlm=\skip94
-\ALG@thistlm=\skip95
-\c@ALG@Lnr=\count470
-\c@ALG@blocknr=\count471
-\c@ALG@storecount=\count472
-\c@ALG@tmpcounter=\count473
-\ALG@tmplength=\skip96
+\c@ALG@line=\count326
+\c@ALG@rem=\count327
+\c@ALG@nested=\count328
+\ALG@tlm=\skip66
+\ALG@thistlm=\skip67
+\c@ALG@Lnr=\count329
+\c@ALG@blocknr=\count330
+\c@ALG@storecount=\count331
+\c@ALG@tmpcounter=\count332
+\ALG@tmplength=\skip68
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
 ) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/mnsymbol\MnSymbol.sty
 Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
-\symMnSyA=\mathgroup7
-\symMnSyB=\mathgroup8
-\symMnSyC=\mathgroup9
-\symMnSyD=\mathgroup10
+\symMnSyA=\mathgroup6
+\symMnSyB=\mathgroup7
+\symMnSyC=\mathgroup8
+\symMnSyD=\mathgroup9
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 119.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/lmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
@@ -956,12 +704,14 @@ LaTeX Font Info:    Overwriting symbol font `MnSyC' in version `bold'
 LaTeX Font Info:    Overwriting symbol font `MnSyD' in version `bold'
 (Font)                  U/MnSymbolD/m/n --> U/MnSymbolD/b/n on input line 124.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/MnSymbolE/m/n --> OMX/MnSymbolE/b/n on input line 125.
+(Font)                  OMX/MnSymbolE/m/n --> OMX/MnSymbolE/b/n on input line 1
+25.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  U/MnSymbolF/m/n --> U/MnSymbolF/b/n on input line 126.
 LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 241.
 LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
-(Font)                  OMS/MnSymbolS/m/n --> OMS/MnSymbolS/b/n on input line 241.
+(Font)                  OMS/MnSymbolS/m/n --> OMS/MnSymbolS/b/n on input line 2
+41.
 LaTeX Info: Redefining \longrightarrow on input line 548.
 LaTeX Info: Redefining \longleftarrow on input line 549.
 LaTeX Info: Redefining \longleftrightarrow on input line 550.
@@ -982,82 +732,146 @@ LaTeX Info: Redefining \surd on input line 1843.
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 1845.
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 1846.
 LaTeX Font Info:    Redeclaring math accent \vec on input line 1848.
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count333
+\calc@Bcount=\count334
+\calc@Adimen=\dimen192
+\calc@Bdimen=\dimen193
+\calc@Askip=\skip69
+\calc@Bskip=\skip70
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count335
+\calc@Cskip=\skip71
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count336
+\l_MT_multwidth_dim=\dimen194
+\origjot=\skip72
+\l_MT_shortvdotswithinadjustabove_dim=\dimen195
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen196
+\l_MT_above_intertext_sep=\dimen197
+\l_MT_below_intertext_sep=\dimen198
+\l_MT_above_shortintertext_sep=\dimen199
+\l_MT_below_shortintertext_sep=\dimen256
+\xmathstrut@box=\box67
+\xmathstrut@dim=\dimen257
 ) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\stmaryrd.sty
 Package: stmaryrd 1994/03/03 St Mary's Road symbol package
-\symstmry=\mathgroup11
+\symstmry=\mathgroup10
 LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
 (Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
 ) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box110
-\sift@deathcycles=\count474
-\@vwid@loff=\dimen271
-\@vwid@roff=\dimen272
+\@vwid@box=\box68
+\sift@deathcycles=\count337
+\@vwid@loff=\dimen258
+\@vwid@roff=\dimen259
 ) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
-\symrsfs=\mathgroup12
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks49
-\pgfutil@tempdima=\dimen273
-\pgfutil@tempdimb=\dimen274
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
-\pgfutil@abb=\box111
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+\symrsfs=\mathgroup11
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks51
+\pgfutil@tempdima=\dimen260
+\pgfutil@tempdimb=\dimen261
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box69
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks50
-\pgfkeys@temptoks=\toks51
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks52
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks52
+\pgfkeys@temptoks=\toks53
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks54
 ))
-\pgf@x=\dimen275
-\pgf@y=\dimen276
-\pgf@xa=\dimen277
-\pgf@ya=\dimen278
-\pgf@xb=\dimen279
-\pgf@yb=\dimen280
-\pgf@xc=\dimen281
-\pgf@yc=\dimen282
-\pgf@xd=\dimen283
-\pgf@yd=\dimen284
-\w@pgf@writea=\write6
-\r@pgf@reada=\read4
-\c@pgf@counta=\count475
-\c@pgf@countb=\count476
-\c@pgf@countc=\count477
-\c@pgf@countd=\count478
-\t@pgf@toka=\toks53
-\t@pgf@tokb=\toks54
-\t@pgf@tokc=\toks55
-\pgf@sys@id@count=\count479
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+\pgf@x=\dimen262
+\pgf@y=\dimen263
+\pgf@xa=\dimen264
+\pgf@ya=\dimen265
+\pgf@xb=\dimen266
+\pgf@yb=\dimen267
+\pgf@xc=\dimen268
+\pgf@yc=\dimen269
+\pgf@xd=\dimen270
+\pgf@yd=\dimen271
+\w@pgf@writea=\write5
+\r@pgf@reada=\read3
+\c@pgf@counta=\count338
+\c@pgf@countb=\count339
+\c@pgf@countc=\count340
+\c@pgf@countd=\count341
+\t@pgf@toka=\toks55
+\t@pgf@tokb=\toks56
+\t@pgf@tokc=\toks57
+\pgf@sys@id@count=\count342
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
-Driver file for pgf: pgfsys-pdftex.def
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+Driver file for pgf: pgfsys-dvips.def
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-dvips.def
+File: pgfsys-dvips.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-postscript.def
+File: pgfsys-common-postscript.def 2023-01-15 v3.1.10 (3.1.10)
+\pgf@objectcount=\count343
+)))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count480
-\pgfsyssoftpath@bigbuffer@items=\count481
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+\pgfsyssoftpath@smallbuffer@items=\count344
+\pgfsyssoftpath@bigbuffer@items=\count345
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Driver file: dvips.def on input line 227.
 LaTeX Info: Redefining \color on input line 711.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
@@ -1065,267 +879,371 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
-\pgfmath@dimen=\dimen285
-\pgfmath@count=\count482
-\pgfmath@box=\box112
-\pgfmath@toks=\toks56
-\pgfmath@stack@operand=\toks57
-\pgfmath@stack@operation=\toks58
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count483
-)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen272
+\pgfmath@count=\count346
+\pgfmath@box=\box70
+\pgfmath@toks=\toks58
+\pgfmath@stack@operand=\toks59
+\pgfmath@stack@operation=\toks60
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count347
+))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen286
-\pgf@picmaxx=\dimen287
-\pgf@picminy=\dimen288
-\pgf@picmaxy=\dimen289
-\pgf@pathminx=\dimen290
-\pgf@pathmaxx=\dimen291
-\pgf@pathminy=\dimen292
-\pgf@pathmaxy=\dimen293
-\pgf@xx=\dimen294
-\pgf@xy=\dimen295
-\pgf@yx=\dimen296
-\pgf@yy=\dimen297
-\pgf@zx=\dimen298
-\pgf@zy=\dimen299
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+\pgf@picminx=\dimen273
+\pgf@picmaxx=\dimen274
+\pgf@picminy=\dimen275
+\pgf@picmaxy=\dimen276
+\pgf@pathminx=\dimen277
+\pgf@pathmaxx=\dimen278
+\pgf@pathminy=\dimen279
+\pgf@pathmaxy=\dimen280
+\pgf@xx=\dimen281
+\pgf@xy=\dimen282
+\pgf@yx=\dimen283
+\pgf@yy=\dimen284
+\pgf@zx=\dimen285
+\pgf@zy=\dimen286
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen300
-\pgf@path@lasty=\dimen301
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+\pgf@path@lastx=\dimen287
+\pgf@path@lasty=\dimen288
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen302
-\pgf@shorten@start@additional=\dimen303
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+\pgf@shorten@end@additional=\dimen289
+\pgf@shorten@start@additional=\dimen290
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box113
-\pgf@hbox=\box114
-\pgf@layerbox@main=\box115
-\pgf@picture@serial@count=\count484
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+\pgfpic=\box71
+\pgf@hbox=\box72
+\pgf@layerbox@main=\box73
+\pgf@picture@serial@count=\count348
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen304
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+\pgflinewidth=\dimen291
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen305
-\pgf@pt@y=\dimen306
-\pgf@pt@temp=\dimen307
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+\pgf@pt@x=\dimen292
+\pgf@pt@y=\dimen293
+\pgf@pt@temp=\dimen294
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen308
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+\pgfarrowsep=\dimen295
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen309
-\pgf@sys@shading@range@num=\count485
-\pgf@shadingcount=\count486
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+\pgf@max=\dimen296
+\pgf@sys@shading@range@num=\count349
+\pgf@shadingcount=\count350
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box116
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+\pgfexternal@startupbox=\box74
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+)))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box117
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+\pgfnodeparttextbox=\box75
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen310
-\pgf@nodesepend=\dimen311
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+\pgf@nodesepstart=\dimen297
+\pgf@nodesepend=\dimen298
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen312
-\pgffor@skip=\dimen313
-\pgffor@stack=\toks59
-\pgffor@toks=\toks60
-)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+\pgffor@iter=\dimen299
+\pgffor@skip=\dimen300
+\pgffor@stack=\toks61
+\pgffor@toks=\toks62
+))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count487
-\pgfplotmarksize=\dimen314
+\pgf@plot@mark@count=\count351
+\pgfplotmarksize=\dimen301
 )
-\tikz@lastx=\dimen315
-\tikz@lasty=\dimen316
-\tikz@lastxsaved=\dimen317
-\tikz@lastysaved=\dimen318
-\tikz@lastmovetox=\dimen319
-\tikz@lastmovetoy=\dimen320
-\tikzleveldistance=\dimen321
-\tikzsiblingdistance=\dimen322
-\tikz@figbox=\box118
-\tikz@figbox@bg=\box119
-\tikz@tempbox=\box120
-\tikz@tempbox@bg=\box121
-\tikztreelevel=\count488
-\tikznumberofchildren=\count489
-\tikznumberofcurrentchild=\count490
-\tikz@fig@count=\count491
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+\tikz@lastx=\dimen302
+\tikz@lasty=\dimen303
+\tikz@lastxsaved=\dimen304
+\tikz@lastysaved=\dimen305
+\tikz@lastmovetox=\dimen306
+\tikz@lastmovetoy=\dimen307
+\tikzleveldistance=\dimen308
+\tikzsiblingdistance=\dimen309
+\tikz@figbox=\box76
+\tikz@figbox@bg=\box77
+\tikz@tempbox=\box78
+\tikz@tempbox@bg=\box79
+\tikztreelevel=\count352
+\tikznumberofchildren=\count353
+\tikznumberofcurrentchild=\count354
+\tikz@fig@count=\count355
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count492
-\pgfmatrixcurrentcolumn=\count493
-\pgf@matrix@numberofcolumns=\count494
+\pgfmatrixcurrentrow=\count356
+\pgfmatrixcurrentcolumn=\count357
+\pgf@matrix@numberofcolumns=\count358
 )
-\tikz@expandcount=\count495
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+\tikz@expandcount=\count359
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryautomata.code.tex
+)))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryautomata.code.tex
 File: tikzlibraryautomata.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.multipart.code.tex
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.multipart.code.tex
 File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.multipart.code.tex
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodepartlowerbox=\box122
-\pgfnodeparttwobox=\box123
-\pgfnodepartthreebox=\box124
-\pgfnodepartfourbox=\box125
-\pgfnodeparttwentybox=\box126
-\pgfnodepartnineteenbox=\box127
-\pgfnodeparteighteenbox=\box128
-\pgfnodepartseventeenbox=\box129
-\pgfnodepartsixteenbox=\box130
-\pgfnodepartfifteenbox=\box131
-\pgfnodepartfourteenbox=\box132
-\pgfnodepartthirteenbox=\box133
-\pgfnodeparttwelvebox=\box134
-\pgfnodepartelevenbox=\box135
-\pgfnodeparttenbox=\box136
-\pgfnodepartninebox=\box137
-\pgfnodeparteightbox=\box138
-\pgfnodepartsevenbox=\box139
-\pgfnodepartsixbox=\box140
-\pgfnodepartfivebox=\box141
-))) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries/graphs\tikzlibrarygraphs.code.tex
+\pgfnodepartlowerbox=\box80
+\pgfnodeparttwobox=\box81
+\pgfnodepartthreebox=\box82
+\pgfnodepartfourbox=\box83
+\pgfnodeparttwentybox=\box84
+\pgfnodepartnineteenbox=\box85
+\pgfnodeparteighteenbox=\box86
+\pgfnodepartseventeenbox=\box87
+\pgfnodepartsixteenbox=\box88
+\pgfnodepartfifteenbox=\box89
+\pgfnodepartfourteenbox=\box90
+\pgfnodepartthirteenbox=\box91
+\pgfnodeparttwelvebox=\box92
+\pgfnodepartelevenbox=\box93
+\pgfnodeparttenbox=\box94
+\pgfnodepartninebox=\box95
+\pgfnodeparteightbox=\box96
+\pgfnodepartsevenbox=\box97
+\pgfnodepartsixbox=\box98
+\pgfnodepartfivebox=\box99
+)))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries/graphs\tikzlibrarygraphs.code.tex
 File: tikzlibrarygraphs.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\tikz@lib@auto@number=\count496
-\tikz@qnode@count=\count497
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+\tikz@lib@auto@number=\count360
+\tikz@qnode@count=\count361
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarychains.code.tex
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarychains.code.tex
 File: tikzlibrarychains.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code.tex
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryarrows.code.tex
 File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen323
-)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarysnakes.code.tex
+\arrowsize=\dimen310
+))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarysnakes.code.tex
 File: tikzlibrarysnakes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 
-Package pgf Warning: Snakes have been superseded by decorations. Please use the decoration libraries instead of the snakes library on input line 14.
+Package pgf Warning: Snakes have been superseded by decorations. Please use the
+ decoration libraries instead of the snakes library on input line 14.
 
-(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen324
-\pgfdecoratedremainingdistance=\dimen325
-\pgfdecoratedinputsegmentcompleteddistance=\dimen326
-\pgfdecoratedinputsegmentremainingdistance=\dimen327
-\pgf@decorate@distancetomove=\dimen328
-\pgf@decorate@repeatstate=\count498
-\pgfdecorationsegmentamplitude=\dimen329
-\pgfdecorationsegmentlength=\dimen330
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen311
+\pgfdecoratedremainingdistance=\dimen312
+\pgfdecoratedinputsegmentcompleteddistance=\dimen313
+\pgfdecoratedinputsegmentremainingdistance=\dimen314
+\pgf@decorate@distancetomove=\dimen315
+\pgf@decorate@repeatstate=\count362
+\pgfdecorationsegmentamplitude=\dimen316
+\pgfdecorationsegmentlength=\dimen317
 )
-\tikz@lib@dec@box=\box142
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.shapes.code.tex (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.shapes.code.tex))) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
+\tikz@lib@dec@box=\box100
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.shapes.code.tex
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.shapes.code.tex)))
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
 Package: todonotes 2023/01/31 v1.1.6 Todonotes source and documentation.
 Package: todonotes 2023/01/31
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks61
-\XKV@tempa@toks=\toks62
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks63
+\XKV@tempa@toks=\toks64
 )
-\XKV@depth=\count499
+\XKV@depth=\count363
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-\c@@todonotes@numberoftodonotes=\count500
-)) (../extras/metadata.tex
-
-../extras/metadata.tex:3: Package biblatex Error: '\bibliographystyle' invalid for 'biblatex'.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \bibliographystyle{plainurl}
-                                % the mandatory bibstyle
-Use the package option 'style' instead.
-I'm ignoring this command.
-
-)
-Package csquotes Info: Checking for multilingual support...
-Package csquotes Info: ... found 'babel' package.
-Package csquotes Info: Adjusting default style.
-Package csquotes Info: Redefining alias 'default' -> 'UKenglish'.
- (main.aux)
+\c@@todonotes@numberoftodonotes=\count364
+)) (../extras/metadata.tex) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 24.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 24.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3cmr.fd
-File: t3cmr.fd 2001/12/31 TIPA font definitions
-)
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Info: Redefining \microtypecontext on input line 24.
-Package microtype Info: Applying patch `item' on input line 24.
-Package microtype Info: Applying patch `toc' on input line 24.
-Package microtype Info: Applying patch `eqnum' on input line 24.
-
-
-Package microtype Warning: Unable to apply patch `footnote' on input line 24.
-
-Package microtype Info: Applying patch `verbatim' on input line 24.
-Package microtype Info: Generating PDF output.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Info: Redefining \microtypecontext on input line 6.
+Package microtype Info: Applying patch `item' on input line 6.
+Package microtype Info: Applying patch `toc' on input line 6.
+Package microtype Info: Applying patch `eqnum' on input line 6.
+Package microtype Info: Applying patch `footnote' on input line 6.
+Package microtype Info: Applying patch `verbatim' on input line 6.
+Package microtype Info: Generating DVI output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 24.
+Package microtype Info: No font expansion.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
+
 (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 44.
 LaTeX Font Info:    Redeclaring math symbol \boxplus on input line 45.
@@ -1334,20 +1252,26 @@ LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 48.
 LaTeX Font Info:    Redeclaring math symbol \centerdot on input line 49.
 LaTeX Font Info:    Redeclaring math symbol \blacklozenge on input line 51.
 LaTeX Font Info:    Redeclaring math symbol \circlearrowright on input line 52.
+
 LaTeX Font Info:    Redeclaring math symbol \circlearrowleft on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 56
+.
 LaTeX Font Info:    Redeclaring math symbol \boxminus on input line 57.
 LaTeX Font Info:    Redeclaring math symbol \Vdash on input line 58.
 LaTeX Font Info:    Redeclaring math symbol \Vvdash on input line 59.
 LaTeX Font Info:    Redeclaring math symbol \vDash on input line 60.
-LaTeX Font Info:    Redeclaring math symbol \twoheadrightarrow on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \twoheadrightarrow on input line 61
+.
 LaTeX Font Info:    Redeclaring math symbol \twoheadleftarrow on input line 62.
+
 LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 63.
 LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 64.
+
 LaTeX Font Info:    Redeclaring math symbol \upuparrows on input line 65.
 LaTeX Font Info:    Redeclaring math symbol \downdownarrows on input line 66.
 LaTeX Font Info:    Redeclaring math symbol \upharpoonright on input line 67.
 LaTeX Font Info:    Redeclaring math symbol \downharpoonright on input line 69.
+
 LaTeX Font Info:    Redeclaring math symbol \upharpoonleft on input line 70.
 LaTeX Font Info:    Redeclaring math symbol \downharpoonleft on input line 71.
 LaTeX Font Info:    Redeclaring math symbol \rightarrowtail on input line 72.
@@ -1356,7 +1280,8 @@ LaTeX Font Info:    Redeclaring math symbol \leftrightarrows on input line 74.
 LaTeX Font Info:    Redeclaring math symbol \rightleftarrows on input line 75.
 LaTeX Font Info:    Redeclaring math symbol \Lsh on input line 76.
 LaTeX Font Info:    Redeclaring math symbol \Rsh on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 79.
+LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 
+79.
 LaTeX Font Info:    Redeclaring math symbol \looparrowleft on input line 80.
 LaTeX Font Info:    Redeclaring math symbol \looparrowright on input line 81.
 LaTeX Font Info:    Redeclaring math symbol \circeq on input line 82.
@@ -1388,9 +1313,12 @@ LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 108.
 LaTeX Font Info:    Redeclaring math symbol \gtrless on input line 109.
 LaTeX Font Info:    Redeclaring math symbol \bigstar on input line 117.
 LaTeX Font Info:    Redeclaring math symbol \between on input line 118.
-LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 119.
-LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 120.
-LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 11
+9.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 1
+20.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 12
+1.
 LaTeX Font Info:    Redeclaring math symbol \vartriangle on input line 122.
 LaTeX Font Info:    Redeclaring math symbol \blacktriangle on input line 123.
 LaTeX Font Info:    Redeclaring math symbol \triangledown on input line 124.
@@ -1417,6 +1345,7 @@ LaTeX Font Info:    Redeclaring math symbol \curlywedge on input line 148.
 LaTeX Font Info:    Redeclaring math symbol \curlyvee on input line 149.
 LaTeX Font Info:    Redeclaring math symbol \leftthreetimes on input line 150.
 LaTeX Font Info:    Redeclaring math symbol \rightthreetimes on input line 151.
+
 LaTeX Font Info:    Redeclaring math symbol \subseteqq on input line 152.
 LaTeX Font Info:    Redeclaring math symbol \supseteqq on input line 153.
 LaTeX Font Info:    Redeclaring math symbol \bumpeq on input line 154.
@@ -1484,8 +1413,10 @@ LaTeX Font Info:    Redeclaring math symbol \nvdash on input line 219.
 LaTeX Font Info:    Redeclaring math symbol \nVdash on input line 220.
 LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 221.
 LaTeX Font Info:    Redeclaring math symbol \nVDash on input line 222.
-LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 223.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 223
+.
 LaTeX Font Info:    Redeclaring math symbol \ntrianglelefteq on input line 224.
+
 LaTeX Font Info:    Redeclaring math symbol \ntriangleleft on input line 225.
 LaTeX Font Info:    Redeclaring math symbol \ntriangleright on input line 226.
 LaTeX Font Info:    Redeclaring math symbol \nleftarrow on input line 227.
@@ -1493,7 +1424,9 @@ LaTeX Font Info:    Redeclaring math symbol \nrightarrow on input line 228.
 LaTeX Font Info:    Redeclaring math symbol \nLeftarrow on input line 229.
 LaTeX Font Info:    Redeclaring math symbol \nRightarrow on input line 230.
 LaTeX Font Info:    Redeclaring math symbol \nLeftrightarrow on input line 231.
+
 LaTeX Font Info:    Redeclaring math symbol \nleftrightarrow on input line 232.
+
 LaTeX Font Info:    Redeclaring math symbol \divideontimes on input line 233.
 LaTeX Font Info:    Redeclaring math symbol \varnothing on input line 234.
 LaTeX Font Info:    Redeclaring math symbol \nexists on input line 235.
@@ -1518,170 +1451,118 @@ LaTeX Font Info:    Redeclaring math symbol \succapprox on input line 255.
 LaTeX Font Info:    Redeclaring math symbol \precapprox on input line 256.
 LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 257.
 LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 258.
+
 LaTeX Font Info:    Redeclaring math symbol \digamma on input line 259.
 LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 260.
 LaTeX Font Info:    Redeclaring math symbol \Bbbk on input line 261.
 LaTeX Font Info:    Redeclaring math symbol \hslash on input line 262.
 LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 265.
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count501
-\scratchdimen=\dimen331
-\scratchbox=\box143
-\nofMPsegments=\count502
-\nofMParguments=\count503
-\everyMPshowfont=\toks63
-\MPscratchCnt=\count504
-\MPscratchDim=\dimen332
-\MPnumerator=\count505
-\makeMPintoPDFobject=\count506
-\everyMPtoPDFconversion=\toks64
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
-\c@lstlisting=\count507
-Package hyperref Info: Link coloring OFF on input line 24.
-\@outlinefile=\write7
-\openout7 = `main.out'.
+\c@lstlisting=\count365
+Package hyperref Info: Link coloring OFF on input line 6.
+
+(main.out) (main.out)
+\@outlinefile=\write6
+\openout6 = `main.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\symgns@font=\mathgroup13
-LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/lmr/m/n --> TS1/lmr/b/n on input line 24.
-Package gensymb Info: Math companion symbols declared on input line 24.
-LaTeX Info: Redefining \degree on input line 24.
-LaTeX Info: Redefining \celsius on input line 24.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 24.
-LaTeX Info: Redefining \ohm on input line 24.
-Package gensymb Info: Using \textohm for \ohm on input line 24.
-Package gensymb Info: Using \textmu for \micro on input line 24.
-Package biblatex Info: Trying to load language 'UKenglish'...
-Package biblatex Info: ... file 'UKenglish.lbx' found.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\UKenglish.lbx
-File: UKenglish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-Package biblatex Info: Trying to load language 'british'...
-Package biblatex Info: ... file 'british.lbx' found.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\british.lbx
-File: british.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 9
+.
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Package biblatex Info: Trying to load language 'british'...
-Package biblatex Info: ... file 'british.lbx' found.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\british.lbx
-File: british.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
-File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)))
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'utf8'.
-\openout5 = `main.bcf'.
-
-Package biblatex Info: Trying to load bibliographic data...
-
-
-c:/Users/carlo/Desktop/Ipre 2023-1/main/main.tex:24: Package biblatex Error: File 'main.bbl' not created by biblatex.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 \begin{document}
-                     ^^M
-This file was apparently not created by biblatex. Rename it or
-move it to a location were TeX will not find it. If this error
-persists, consider redefining \blxauxsuffix.See the biblatex
-manual for details.
-
-Package biblatex Info: Reference section=0 on input line 24.
-Package biblatex Info: Reference segment=0 on input line 24.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 27.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 9
+.
+
 (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 27.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9
+.
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Package microtype Info: Fixing zero \fontdimen 6 for font `OMX/MnSymbolE/m/n/10'
-(microtype)             (new value: 10.0pt) on input line 27.
+Package microtype Info: Fixing zero \fontdimen 6 for font `OMX/MnSymbolE/m/n/10
+'
+(microtype)             (new value: 10.0pt) on input line 9.
 Package microtype Info: Fixing zero \fontdimen 6 for font `OMX/MnSymbolE/m/n/7'
-(microtype)             (new value: 7.0pt) on input line 27.
+
+(microtype)             (new value: 7.0pt) on input line 9.
 Package microtype Info: Fixing zero \fontdimen 6 for font `OMX/MnSymbolE/m/n/5'
-(microtype)             (new value: 5.0pt) on input line 27.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+
+(microtype)             (new value: 5.0pt) on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+)
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-eur.cfg
-File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 )
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolA/m/n/10'
-(microtype)             (new value: 10.0pt) on input line 27.
+(microtype)             (new value: 10.0pt) on input line 9.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolA/m/n/7'
-(microtype)             (new value: 7.0pt) on input line 27.
+(microtype)             (new value: 7.0pt) on input line 9.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolA/m/n/5'
-(microtype)             (new value: 5.0pt) on input line 27.
+(microtype)             (new value: 5.0pt) on input line 9.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolB/m/n/10'
-(microtype)             (new value: 10.0pt) on input line 27.
+(microtype)             (new value: 10.0pt) on input line 9.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolB/m/n/7'
-(microtype)             (new value: 7.0pt) on input line 27.
+(microtype)             (new value: 7.0pt) on input line 9.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolB/m/n/5'
-(microtype)             (new value: 5.0pt) on input line 27.
+(microtype)             (new value: 5.0pt) on input line 9.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolC/m/n/10'
-(microtype)             (new value: 10.0pt) on input line 27.
+(microtype)             (new value: 10.0pt) on input line 9.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolC/m/n/7'
-(microtype)             (new value: 7.0pt) on input line 27.
+(microtype)             (new value: 7.0pt) on input line 9.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolC/m/n/5'
-(microtype)             (new value: 5.0pt) on input line 27.
+(microtype)             (new value: 5.0pt) on input line 9.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/10'
-(microtype)             (new value: 10.0pt) on input line 27.
+(microtype)             (new value: 10.0pt) on input line 9.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/7'
-(microtype)             (new value: 7.0pt) on input line 27.
+(microtype)             (new value: 7.0pt) on input line 9.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/5'
-(microtype)             (new value: 5.0pt) on input line 27.
-LaTeX Font Info:    Trying to load font information for U+stmry on input line 27.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\ustmry.fd)
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 27.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
+(microtype)             (new value: 5.0pt) on input line 9.
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 9
+.
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\ustmry.fd)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 9.
+
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 27.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 27.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
+nput line 9.
+
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
+mefree1.fd)
 \openout3 = `main.vtc'.
 
  (../extras/abstract.tex
 Package microtype Info: Fixing zero \fontdimen 6 for font `OMX/MnSymbolE/m/n/9'
+
 (microtype)             (new value: 9.0pt) on input line 7.
 Package microtype Info: Fixing zero \fontdimen 6 for font `OMX/MnSymbolE/m/n/6'
+
 (microtype)             (new value: 6.0pt) on input line 7.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolA/m/n/9'
 (microtype)             (new value: 9.0pt) on input line 7.
@@ -1700,29 +1581,13 @@ Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/9'
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/6'
 (microtype)             (new value: 6.0pt) on input line 7.
 ) (../sections/intro.tex
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 5.
-) (../sections/preliminaries.tex) (../sections/results.tex
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 5.
+)
+(../sections/preliminaries.tex) (../sections/results.tex
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
+6.
 
-LaTeX Warning: Citation 'DurandG07' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'BaganDG07' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'DurandG07' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'BucchiGQRV22' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Reference `sec:preliminaries' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'BaganDG07' on page 1 undefined on input line 3.
-
-LaTeX Font Info:    Freeze math alphabet allocation in version normal.
-(Font)              Allocated math groups: 14 (local: 2) on input line 6.
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 6.
 (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1730,241 +1595,93 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 6.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 6.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 6.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 6.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 11.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 12.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 12.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 12.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 12.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 12.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 12.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 12.
  [1.1
 
-{C:/Users/carlo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolS.enc}]
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 17.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 18.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 18.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 18.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 18.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 18.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 22.
-
-
-LaTeX Warning: Reference `prop:myproposition' on page 2 undefined on input line 24.
-
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 31.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 31.
+]
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 35.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 36.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 36.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 37.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 37.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 38.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 39.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 40.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 40.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 42.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 42.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 47.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 48.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 49.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 50.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 50.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 50.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 52.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 53.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 53.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 62.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 63.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 63.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 64.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 65.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 65.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 66.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 67.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 68.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 69.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 69.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 71.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 71.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 74.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 74.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 75.
-) (../sections/concl.tex) [2.2]
 
-c:/Users/carlo/Desktop/Ipre 2023-1/main/main.tex:47: Package biblatex Error: '\bibliographystyle' invalid for 'biblatex'.
+Overfull \hbox (0.57626pt too wide) in paragraph at lines 33--81
+[][]      []
+ []
 
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 	\bibliographystyle{abbrv}
-                               
-Use the package option 'style' instead.
-I'm ignoring this command.
+) (../sections/concl.tex) [2.2] (main.bbl) [3.3]
+(../appendix/app-preliminaries.tex) (../appendix/app-results.tex
+(../figures/enumfig.tex)
+LaTeX Font Info:    Freeze math alphabet allocation in version normal.
+(Font)              Allocated math groups: 14 (local: 2) on input line 10.
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
+10.
 
-
-c:/Users/carlo/Desktop/Ipre 2023-1/main/main.tex:48: LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 	\bibliography
-                   {../extras/biblio}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[3.3]
-
-LaTeX Warning: Reference `sec:preliminaries' on page 4 undefined on input line 53.
-
-(../appendix/app-preliminaries.tex)
-
-LaTeX Warning: Reference `sec:results' on page 4 undefined on input line 57.
-
-(../appendix/app-results.tex
-
-LaTeX Warning: Reference `lemma:mylemma' on page 4 undefined on input line 3.
-
-(../figures/enumfig.tex
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 5.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 7.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 9.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 11.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 13.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 15.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 17.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 19.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 21.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 23.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 25.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 27.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 28.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 59.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 61.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 63.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 65.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 67.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 69.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 71.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 73.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 75.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 77.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 79.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 81.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 82.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 112.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 114.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 116.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 118.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 120.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 122.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 124.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 126.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 128.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 130.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 132.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 134.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 135.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 168.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 170.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 172.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 174.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 176.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 178.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 180.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 182.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 184.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 186.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 188.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 190.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 191.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 221.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 223.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 225.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 227.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 229.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 231.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 233.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 235.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 237.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 239.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 241.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 243.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 244.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 274.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 276.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 278.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 280.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 282.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 284.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 286.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 288.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 290.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 292.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 294.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 296.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 297.
-)
-LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 10.
- (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmtt.fd
+(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmtt.fd
 File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 10.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 10.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 10.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 10.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 10.
- [4.4{C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmtt.enc}]
-
-LaTeX Warning: Reference `theo:mytheorem' on page 5 undefined on input line 25.
-
+LaTeX Font Info:    Undo math alphabet allocation in version normal on input li
+ne 10.
+LaTeX Font Info:    Undo math alphabet allocation in version normal on input li
+ne 10.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 10.
+LaTeX Font Info:    Undo math alphabet allocation in version normal on input li
+ne 10.
+LaTeX Font Info:    Undo math alphabet allocation in version normal on input li
+ne 10.
+ [4.4]
 (../figures/gadgetufig.tex
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 6.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 7.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 6.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 7.
 LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 7.
-Package microtype Info: Fixing zero \fontdimen 6 for font `OMX/MnSymbolE/m/n/8.5'
+Package microtype Info: Fixing zero \fontdimen 6 for font `OMX/MnSymbolE/m/n/8.
+5'
 (microtype)             (new value: 8.5pt) on input line 7.
-Package microtype Info: Fixing zero \fontdimen 6 for font `OMX/MnSymbolE/m/n/5.94997'
+Package microtype Info: Fixing zero \fontdimen 6 for font `OMX/MnSymbolE/m/n/5.
+94997'
 (microtype)             (new value: 5.94997pt) on input line 7.
-Package microtype Info: Fixing zero \fontdimen 6 for font `OMX/MnSymbolE/m/n/4.25'
+Package microtype Info: Fixing zero \fontdimen 6 for font `OMX/MnSymbolE/m/n/4.
+25'
 (microtype)             (new value: 4.25pt) on input line 7.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolA/m/n/8.5'
+
 (microtype)             (new value: 8.5pt) on input line 7.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolA/m/n/5.94997'
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolA/m/n/5.94
+997'
 (microtype)             (new value: 5.94997pt) on input line 7.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolA/m/n/4.25'
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolA/m/n/4.25
+'
 (microtype)             (new value: 4.25pt) on input line 7.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolB/m/n/8.5'
+
 (microtype)             (new value: 8.5pt) on input line 7.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolB/m/n/5.94997'
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolB/m/n/5.94
+997'
 (microtype)             (new value: 5.94997pt) on input line 7.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolB/m/n/4.25'
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolB/m/n/4.25
+'
 (microtype)             (new value: 4.25pt) on input line 7.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolC/m/n/8.5'
+
 (microtype)             (new value: 8.5pt) on input line 7.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolC/m/n/5.94997'
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolC/m/n/5.94
+997'
 (microtype)             (new value: 5.94997pt) on input line 7.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolC/m/n/4.25'
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolC/m/n/4.25
+'
 (microtype)             (new value: 4.25pt) on input line 7.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/8.5'
+
 (microtype)             (new value: 8.5pt) on input line 7.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/5.94997'
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/5.94
+997'
 (microtype)             (new value: 5.94997pt) on input line 7.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/4.25'
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/4.25
+'
 (microtype)             (new value: 4.25pt) on input line 7.
 
 
@@ -1983,183 +1700,148 @@ LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <8.5> not available
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.25> not available
 (Font)              size <5> substituted on input line 7.
 
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\textasteriskcentered '
-(microtype)                in font encoding `TS1' in protrusion list
-(microtype)                `cmr-textcomp'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\textasteriskcentered '
-(microtype)                in font encoding `TS1' in protrusion list
-(microtype)                `cmr-textcomp'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\textasteriskcentered '
-(microtype)                in font encoding `TS1' in protrusion list
-(microtype)                `cmr-textcomp'.
-
-
-LaTeX Warning: Command \! invalid in math mode on input line 7.
-
-LaTeX Font Info:    Trying to load font information for T3+lmr on input line 7.
-LaTeX Font Info:    No file T3lmr.fd. on input line 7.
-
-LaTeX Font Warning: Font shape `T3/lmr/m/n' undefined
-(Font)              using `T3/cmr/m/n' instead on input line 7.
-
-
-LaTeX Font Warning: Font shape `T3/cmr/m/n' in size <8.5> not available
-(Font)              size <8> substituted on input line 7.
-
-
-LaTeX Warning: Command \! invalid in math mode on input line 7.
-
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 7.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 8.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 9.
-
-LaTeX Warning: Command \! invalid in math mode on input line 9.
-
-
-LaTeX Font Warning: Font shape `T3/lmr/m/n' in size <8.5> not available
-(Font)              size <8> substituted on input line 9.
-
-
-LaTeX Warning: Command \! invalid in math mode on input line 9.
-
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 9.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 10.
-
-LaTeX Warning: Command \! invalid in math mode on input line 10.
-
-
-LaTeX Warning: Command \! invalid in math mode on input line 10.
-
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 10.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 11.
-
-LaTeX Warning: Command \! invalid in math mode on input line 11.
-
-
-LaTeX Warning: Command \! invalid in math mode on input line 11.
-
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 11.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 12.
-
-LaTeX Warning: Command \! invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \! invalid in math mode on input line 12.
-
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 12.
-
-LaTeX Warning: Reference `theo:mytheorem' on page 5 undefined on input line 21.
-
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 7.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 8.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 9.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 9.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 10.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 10.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 11.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 11.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 12.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 12.
 ) [5.5]
-
-LaTeX Warning: Reference `prop:myproposition' on page 6 undefined on input line 40.
-
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 44.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 45.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 45.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 45.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 45.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 45.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 45.
-(C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 44.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 45.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 45.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 45.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 45.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 45.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4
+5.
+ (C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 45.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 45.
- (../figures/gadgetpepsfig.tex
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 6.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 7.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 7.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 8.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 9.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 10.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 10.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 11.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 12.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 13.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 22.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 23.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 23.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 24.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 25.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 26.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 26.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 27.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 28.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 29.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 38.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 39.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 40.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 41.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 42.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 42.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 43.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 43.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 44.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 44.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 45.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 46.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 47.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 48.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 49.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 50.
-LaTeX Font Info:    Undo math alphabet allocation in version normal on input line 64.
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 64.
-)) [6.6] [7.7] (main.aux)
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 45.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 45.
+
+[6.6] (../figures/gadgetpepsfig.tex
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 6.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 7.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 7.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 8.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 9.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 10.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 10.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 11.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 12.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 13.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 22.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 23.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 23.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 24.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 25.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 26.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 26.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 27.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 28.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 29.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 38.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 39.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 40.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 41.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 42.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 42.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 43.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 43.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 44.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 44.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 45.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 46.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 47.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 48.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 49.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 50.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 64.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 64.
+)) [7.7] (main.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.75pt have occurred.
 
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  B1D364C3C85528DBBE67AE4D00503EB2;1374.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
-
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 99538F1AE63DE8407646EA4012E2C0C1;1349.
  ) 
 Here is how much of TeX's memory you used:
- 48200 strings out of 476411
- 936053 string characters out of 5789134
- 1901845 words of memory out of 5000000
- 67399 multiletter control sequences out of 15000+600000
- 677444 words of font info for 310 fonts, out of 8000000 for 9000
+ 38723 strings out of 476412
+ 754668 string characters out of 5789160
+ 1895842 words of memory out of 5000000
+ 58321 multiletter control sequences out of 15000+600000
+ 667782 words of font info for 176 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,9n,92p,1191b,2469s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol5.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol7.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol8.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol9.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (7 pages, 521247 bytes).
-PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 103437 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 90i,9n,92p,1003b,889s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+Output written on main.dvi (7 pages, 148304 bytes).
