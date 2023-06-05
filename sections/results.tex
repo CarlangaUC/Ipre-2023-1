@@ -1,3 +1,27 @@
 %!TEX root = ../main/main.tex
 
-We can observe that the Strahler number is similar to a centrality measure, in a sense which, is a function who takes a node an assigns a score (with certain conditions), that's why the co-relation between Strahler number is visible. We can define the centrality measure using Strahler number in which sense, a higher Strahler number means higher centrality, its valid to inquire if this centrality roots trees. 
+We can observe that the Strahler number is similar to a centrality measure, in a sense which, is a function who takes a node an assigns a score (with certain conditions), that's why the co-relation between Strahler number is visible. We can define the centrality measure using Strahler number in which sense, a higher Strahler number means higher centrality, it's important to remember that a potential function tell us if a centrality measure is able to root trees, in other words, if a centrality measure admits a potential function, it will roots trees if and only the potential function is simetric (not necessarily works backwards). Its valid to inquire if this centrality roots trees, we can approach this by finding a a potential function such as:
+\begin{center}
+    \begin{equation}
+        f_{S_{N}} (v,T) = \left\{ \begin{array}{lcc}
+             1 &   \text{If v is a leaf}  &\\
+             \\ i & \text{If all childs ($\forall u)$ of v have $f_{S_{N}} (u,T) = i$} \\
+             \\ i + 1 &  \text{If at least one child $u^{
+             *}$ have $f_{S_{N}} (u^{*},T) = i+1$  and all the others child  have at most i} 
+             \end{array}
+   \right.
+    \end{equation}
+\end{center}
+We can see now if this function is symmetric knowing that the concept of the Strahler number, is to represent a directed graph and measure the centrality to different contexts. We can make a counter-example for this and observe that if we consider:
+
+Here goes the contra-example
+\begin{center}
+    
+\end{center}
+
+Knowing that this centrality is not symmetrical, by theorem it will not root trees, in other words, we can not find the root of tree in all cases with this centrality. If this centrality does not roots trees we can explore other things like if this potential function in a monoids version, such thing can be drafted like:
+\begin{center}
+    \begin{equation}
+        (\mathbb R_{\geq 1},\max,1)                \text{  $l(x) = x + 1$} 
+    \end{equation}
+\end{center}
