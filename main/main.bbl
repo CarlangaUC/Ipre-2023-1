@@ -1,20 +1,29 @@
 \begin{thebibliography}{1}
 
-\bibitem{BaganDG07}
-Guillaume Bagan, Arnaud Durand, and Etienne Grandjean.
-\newblock On acyclic conjunctive queries and constant delay enumeration.
-\newblock In {\em CSL}, pages 208--222, 2007.
+\bibitem{EsparzaLS14}
+Javier Esparza, Michael Luttenberger, and Maximilian Schlund.
+\newblock A brief history of strahler numbers.
+\newblock In {\em Language and Automata Theory and Applications - 8th
+  International Conference, {LATA} 2014, Madrid, Spain, March 10-14, 2014.
+  Proceedings}, volume 8370, pages 1--13. Springer, 2014.
 
-\bibitem{BucchiGQRV22}
-Marco Bucchi, Alejandro Grez, Andr{\'{e}}s Quintana, Cristian Riveros, and
-  Stijn Vansummeren.
-\newblock {CORE:} a complex event recognition engine.
-\newblock {\em VLDB}, 15(9):1951--1964, 2022.
+\bibitem{RiverosS20}
+Cristian Riveros and Jorge Salas.
+\newblock A family of centrality measures for graph data based on subgraphs.
+\newblock In {\em 23rd International Conference on Database Theory, {ICDT}
+  2020, March 30-April 2, 2020, Copenhagen, Denmark}, volume 155 of {\em
+  LIPIcs}, pages 23:1--23:18, 2020.
 
-\bibitem{DurandG07}
-Arnaud Durand and Etienne Grandjean.
-\newblock First-order queries on structures of bounded degree are computable
-  with constant delay.
-\newblock {\em {ACM} Trans. Comput. Log.}, 8(4):21, 2007.
+\bibitem{RiverosSS23}
+Cristian Riveros, Jorge Salas, and Oskar Skibski.
+\newblock How do centrality measures choose the root of trees?
+\newblock In {\em 26th International Conference on Database Theory, {ICDT}
+  2023, March 28-31, 2023, Ioannina, Greece}, volume 255 of {\em LIPIcs}, pages
+  12:1--12:17.
+
+\bibitem{stahler1952hypsometric}
+A~Stahler.
+\newblock Hypsometric (area altitude) analysis of erosional topology.
+\newblock {\em Geol Soc Am Bull}, 63:1117--1142, 1952.
 
 \end{thebibliography}
