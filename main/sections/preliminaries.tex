@@ -6,11 +6,11 @@
 
 \paragraph{Trees} A tree is an undirected graph in which any two vertices are connected by only and only one path. A rooted tree is refereed as a tree with a vertex who serves as the "root" of the tree, being a references to the others  vertices in the tree. A neighborhood of a vertex v is denoted as $N_{G}(v)$, and contains all vertex (u) if ${u,v} \in V$ then $u \in N_{G}(v)$.
 
-\paragraph{Centrality} The centrality of a graph is defined as a assignation of a number to nodes within a graph corresponding to their network position, the application of a centrality to a graph indicates the importance of the vertex in the graph. There exist a different number of centrality measures, so the importance of a vertex changes from centrality measure to another, also, a centrality measure has to be any function $C : VG \rightarrow R$ that assigns a score $C(v, G)$ to $v$ depending on its graph $G$. An example of a centrality measure would be the one who was previously defined in the paper associated, such as, F-subgraph
-centrality (denoted by $C_{F} (v, G))$:
-\begin{equation}
-    C_{F} (v, G) := \log (|F(v, G)|)
-\end{equation}
+\paragraph{Centrality} The centrality of a graph is defined as a assignation of a number to nodes within a graph corresponding to their network position, the application of a centrality to a graph indicates the importance of the vertex in the graph. There exist a different number of centrality measures, so the importance of a vertex changes from centrality measure to another, also, a centrality measure has to be any function $C : VG \rightarrow R$ that assigns a score $C(v, G)$ to $v$ depending on its graph $G$. 
+
+\paragraph{All-subgraphs centrality} . Given a graph $G = (V, E)$ and a vertex $v \in V$ , we denote by
+$A(v, G) $the set of all connected subgraphs of G that contain v, formally, $A(v, G) = \{S \subseteq G | v \in V (S)$ and S is connected$\}$. Then all-subgraphs centrality of v in G is defined
+as: $AllSubgraphs(v, G) = \log_{2}{|A(v, G)|}$.
 
 \cristian{Agrega estas referencias \cite{RiverosS20} y \cite{RiverosSS23}. También agrega esta sobre Strahler number~\cite{EsparzaLS14} y esta otra \cite{stahler1952hypsometric}} 
 
@@ -19,4 +19,6 @@ If the node is a leaf (has no children), its Strahler number is one.\\
 If the node has one child with Strahler number i, and all other children have Strahler numbers less than i, then the Strahler number of the node is i again.\\
 If the node has two or more children with Strahler number i, and no children with greater number, then the Strahler number of the node is i + 1.
 
+\paragraph{Potential function} A potential function is a function that measures the “potential” of every rooted tree, i.e.,
+a tree with one node selected and the assessment depends on the selection. Now, a centrality measure admits some potential function if the comparison between two adjacent vertices is determined by the potential of their corresponding subtrees. Some centralities measures admits a potential function but it can not root trees, but, all centralities that root trees has to have a potential function.
 
