@@ -1,0 +1,24 @@
+%!TEX root = ../main/main.tex
+
+
+\paragraph{Graphs} A graph is a pair $G = (V, E)$ where $V$ is a finite set and $E \subseteq V\times V$ is a finite relation. Each pair of vertex let be $(v_{1},v_{2})$ , $v_{1},v_{2} \in V$ this set of vertex its called edges and can be directed or not, so the edges $\in E$. In this line, a subgraph is such $G'=(V', E')$, who $V' \subset V$ and $E' \subset E$ in such sense that $(v_{1},v_{2}) \in E' \rightarrow v_{1},v_{2} \in V'$
+
+\paragraph{Path} A path in a graph is a sequence of non-repeated nodes connected through edges present in a graph, if there exist a path between two vertex, this vertex are called connected. An example, let be $x,y \in V$ a path can be expressed so $\{x,x_{1},x_{2},\cdots,y_{1},y_{2},\cdots,y_{n} \}$ with $x,x_{i},y_{i},y \in V$
+
+
+\paragraph{Centrality} The centrality of a graph is defined as a assignation of a number to nodes within a graph corresponding to their network position, the application of a centrality to a graph indicates the importance of the vertex in the graph. There exist a different number of centrality measures, so the importance of a vertex changes from centrality measure to another, also, a centrality measure has to be any function $C : VG \rightarrow R$ that assigns a score $C(v, G)$ to $v$ depending on its graph $G$. 
+
+\paragraph{All-subgraphs centrality} . Given a graph $G = (V, E)$ and a vertex $v \in V$ , we denote by $A(v, G) $the set of all connected subgraphs of G that contain v, formally, $A(v, G) = \{S \subseteq G | v \in V (S)$ and S is connected$\}$. Then all-subgraphs centrality of v in G is defined
+as: AllSubgraphs$(v, G) = \log_{2}{|A(v, G)|}$.
+
+\paragraph{Potential function} A potential function is a function that measures the “potential” of every rooted tree, i.e.,
+a tree with one node selected and the assessment depends on the selection. Now, a centrality measure admits some potential function if the comparison between two adjacent vertices is determined by the potential of their corresponding subtrees. Some centralities measures admits a potential function but it can not root trees, but, all centralities that root trees has to have a potential function.
+
+\paragraph{Trees} A tree is an undirected graph in which any two vertices are connected by only and only one path. A rooted tree is refereed as a tree with a vertex who serves as the "root" of the tree, being a references to the others  vertices in the tree. A neighborhood of a vertex v is denoted as $N_{G}(v)$, and contains all vertex (u) if ${u,v} \in V$ then $u \in N_{G}(v)$.
+
+\paragraph{Previous Results} In the previous paper, we find different properties that a potential function has to be symmetrical, in such sense that if a potential function for C. Then C is
+symmetric over trees if, and only if, for every tree T and every pair of adjacent vertices u, $v \in V(T)$, it holds that $f(u, T_{u,v}) < f(v, T)$. Also, defining this potential function implies using a monoid in the way that: Let $(M, \ast, 1)$ be a monoid and $l : M \rightarrow M$ a leaf-function. The potential function $f_{\ast,l}$ consistently roots trees whenever ($1) x < \l(x)$ for every x, $(2)$ $l$ is monotonic, and (3) $(M, \ast, 1)$ is positively ordered.
+
+\cite{RiverosS20}
+\cite{RiverosSS23}
+

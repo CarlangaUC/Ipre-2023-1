@@ -1,0 +1,18 @@
+%!TEX root = ../main/main.tex
+
+
+In mathematics, the Strahler number or Horton-Strahler number of a mathematical tree is a numerical measure of its branching complexity. This measure has appeared in different contexts, such as animal respiratory systems \cite{horsfield1976some}, random trees \cite{devroye1996horton}, etc. These different applications of this concept raise the question of whether there exists a relation between the Strahler number and a centrality measure. For this purpose, we will use the tools we defined previously and furthermore provide mathematical proofs.
+
+\vspace*{0.5cm}
+
+One may assign a Strahler number to all nodes of a tree, in bottom-up order, as follows:
+\begin{enumerate}
+\item 
+If the node is a leaf (has no children), its Strahler number is one.
+\item
+If the node has one child with Strahler number i, and all other children have Strahler numbers less than i, then the Strahler number of the node is i again.
+\item
+If the node has two or more children with Strahler number i, and no children with greater number, then the Strahler number of the node is i + 1.
+\end{enumerate}
+
+
