@@ -8,7 +8,7 @@
 
 \paragraph{Centrality} The centrality of a graph is defined as an assignment of a number to nodes within a graph corresponding to their network position. The score of a centrality to a graph indicates the importance of the vertex in the graph. There exists a different number of centrality measures, so the importance of a vertex changes from centrality measure to another. Also, a centrality measure has to be any function $C : VG \rightarrow R$ that assigns a score $C(v, G)$ to $v$ depending on its graph $G$. 
 
-\paragraph{All-subgraphs centrality} Given a graph $G = (V, E)$ and a vertex $v \in V$, we denote by $A(v, G)$ the set of all connected subgraphs of $G$ that contain $v$, formally, $A(v, G) = \{S \subseteq G | v \in V (S)$ and S is connected$\}$\cite{RiverosS20}. Then all-subgraphs centrality of $v$ in $G$ is defined
+\paragraph{All-subgraphs centrality} Given a graph $G = (V, E)$ and a vertex $v \in V$, we denote by $A(v, G)$ the set of all connected subgraphs of $G$ that contain $v$, formally, $A(v, G) = \{S \subseteq G | v \in V (S)$ and S is connected \cite{RiverosS20}. Then all-subgraphs centrality of $v$ in $G$ is defined
 as: 
 $$
 \text{AllSubgraphs}(v, G) = \log_{2}{|A(v, G)|}.
