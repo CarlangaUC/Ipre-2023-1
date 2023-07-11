@@ -6,7 +6,7 @@
 \paragraph{Path} A path in a graph is a sequence of non-repeated nodes connected through edges present in a graph. If there exists a path between two vertices, we say that they are connected. As an example, consider $x,y \in V$. A path can be a sequence $x,x_{1},x_{2},\cdots,y_{1},y_{2},\cdots,y_{n}$ with $x,x_{i},y_{i},y \in V$.
 
 
-\paragraph{Centrality} The centrality of a graph is defined as an assignment of a number to nodes within a graph corresponding to their network position. The score of a centrality to a graph indicates the importance of the vertex in the graph. There exists a different number of centrality measures, so the importance of a vertex changes from centrality measure to another. Also, a centrality measure has to be any function $C : VG \rightarrow R$ that assigns a score $C(v, G)$ to $v$ depending on its graph $G$. 
+\paragraph{Centrality} The centrality of a graph is defined as an assignment of a number to nodes within a graph corresponding to their network position. The score of a centrality to a graph indicates the importance of the vertex in the graph. There exists a different number of centrality measures, so the importance of a vertex can varies from centrality measure to another. Also, a centrality measure has to be any function $C : VG \rightarrow R$ that assigns a score $C(v, G)$ to $v$ depending on its graph $G$. 
 
 \paragraph{All-subgraphs centrality} Given a graph $G = (V, E)$ and a vertex $v \in V$, we denote by $A(v, G)$ the set of all connected subgraphs of $G$ that contain $v$, formally, $A(v, G) = \{S \subseteq G | v \in V (S)$ and S is connected \cite{RiverosS20}. Then all-subgraphs centrality of $v$ in $G$ is defined
 as: 

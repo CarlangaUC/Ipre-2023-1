@@ -1,6 +1,8 @@
 %!TEX root = ../main/main.tex
 
-We can observe that the Strahler number is similar to a centrality measure, in a sense which, is a function who takes a node an assigns a score (with certain conditions). That is why the co-relation between Strahler number is visible. We can define the centrality measure using Strahler number in a sense that a higher Strahler number means higher centrality. It is important to remember that a potential function tell us if a centrality measure is able to root trees. In other words, if a centrality measure admits a potential function, it will roots trees if, and only if, the potential function is symmetric (not necessarily works backwards). It is valid to ask if this centrality roots trees, we can approach this by defining a a potential function. Specifically, taking the concept of Strahler number we define the following a potential function for a vertex $v$ of a tree $T$:
+The Strahler number is similar to a centrality measure, in that it assigns a score to a node based on certain conditions. We can define the centrality measure using Strahler number in a sense that a higher Strahler number means higher centrality. It is important to remember that if a centrality measure admits a potential function, it will roots trees if, and only if, the potential function is symmetric (not necessarily works backwards). 
+
+To determine if this centrality measure roots trees, we can define a potential function using the Strahler number. The potential function for a vertex v in a tree T is as follows:
     \begin{equation*}
         f_{S_{N}} (v,T) = \left\{ \begin{array}{llc}
              1 &   \text{if $v$ is a leaf of $T$ (i.e., $v$ does not have children)}  & \smallskip \\ 
@@ -26,7 +28,7 @@ In this example we can observe that, $f(A,T_{A,B}) =  f(B,T) = 0$ in such way th
 
 Knowing that this admits a potential function $f$ and $f$ is not symmetrical, by Theorem 11 in~\cite{RiverosSS23} it will not root trees. In other words, we cannot find the root of tree in all cases with this centrality. 
 
-If this centrality does not roots trees we can explore other things like if this potential function in a monoids version, such this cannot happen because we can observe that, this potential function implies a monoid that is not associative (which is not a monoid by definition), such leaf function can be drafted like:
+If this centrality does not roots trees we can explore other things like if this potential function in a monoids version, such this cannot happen because, this potential function implies a monoid that is not associative (which is not a monoid by definition), such leaf function can be drafted like:
 \begin{equation}
     \max\{ x,y \}= \left\{ \begin{array}{lcc}
               \max\{x,y \} &   if  & x \neq y \\
@@ -42,6 +44,5 @@ This function can represent correctly the centrality of a single vertex , but, i
     \vspace{0.5cm}
     \rightarrow 2 \neq 3
 \end{equation}
-If this centrality can not root trees this means, we can not find a root for a tree $T$, which can be a problem in different applications.
 
 
